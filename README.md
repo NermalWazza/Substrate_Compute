@@ -1,4 +1,4 @@
-# Substrate_VM_Base
+# Substrate_Compute
 Baseline Azure VM substrate defined in Bicep, with immutable OS, persistent data disk, and clear separation between infrastructure and applications. Designed as a governed foundation for future workloads (e.g. OpenClaw).
 
 # Governed_Substrate_VM
