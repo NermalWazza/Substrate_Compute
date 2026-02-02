@@ -1,4 +1,8 @@
 # Substrate_Compute
+<<<<<<< HEAD
+=======
+Baseline Azure VM substrate defined in Bicep, with immutable OS, persistent data disk, and clear separation between infrastructure and applications. Designed as a governed foundation for future workloads (e.g. OpenClaw).
+>>>>>>> 23147a2440e171469b44d4353a1f9567b582eb48
 
 This repository defines a governed Azure VM substrate intended for repeatable, low-cost compute nodes that can be safely extended with application layers (e.g. OpenClaw) without compromising base integrity.
 
