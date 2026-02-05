@@ -8,6 +8,9 @@ The design prioritises:
 - Low operational cost
 - Clear separation between infrastructure substrate and application logic
 
+[ Global_Substrate_Settings ]  →  [ Substrate_Compute ]  →  [ ek_OpenClaw ]
+        (governance)                 (infra)                 (runtime)
+
 ---
 
 ## Reference VM: vm-Substrate-Compute-Base
