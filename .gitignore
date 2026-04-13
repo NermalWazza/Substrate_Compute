@@ -20,3 +20,14 @@ node_modules/
 # OS
 Thumbs.db
 .DS_Store
+# Session / runtime data
+Sessions/**
+**/Session_Packet.md
+**/Session_*.md
+session_data/
+runtime/
+.codex/
+.claude/
+.ai_sessions/
+*.session.json
+*.session.log
